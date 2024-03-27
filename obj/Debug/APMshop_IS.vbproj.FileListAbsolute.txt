@@ -1,0 +1,78 @@
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\bin\Debug\APMshop_IS.exe.config
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\bin\Debug\APMshop_IS.exe
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\bin\Debug\APMshop_IS.pdb
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\bin\Debug\APMshop_IS.xml
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\bin\Debug\MySql.Data.dll
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Form1.resources
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Incoming.resources
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Login.resources
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Resources.resources
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Outgoing.resources
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.SellOrder.resources
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.vbproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.exe
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.xml
+C:\Users\user\documents\visual studio 2012\Projects\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.pdb
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\bin\Debug\APMshop_IS.exe.config
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.exe
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.xml
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.pdb
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\bin\Debug\APMshop_IS.exe
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\bin\Debug\APMshop_IS.pdb
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\bin\Debug\APMshop_IS.xml
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Form1.resources
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Incoming.resources
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Login.resources
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Resources.resources
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Outgoing.resources
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.SellOrder.resources
+C:\Users\user\Desktop\APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.vbproj.GenerateResource.Cache
+E:\update2_APMshop_IS\APMshop_IS\bin\Debug\APMshop_IS.exe.config
+E:\update2_APMshop_IS\APMshop_IS\bin\Debug\APMshop_IS.exe
+E:\update2_APMshop_IS\APMshop_IS\bin\Debug\APMshop_IS.pdb
+E:\update2_APMshop_IS\APMshop_IS\bin\Debug\APMshop_IS.xml
+E:\update2_APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.vbprojResolveAssemblyReference.cache
+E:\update2_APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Form1.resources
+E:\update2_APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Incoming.resources
+E:\update2_APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Login.resources
+E:\update2_APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Resources.resources
+E:\update2_APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.Outgoing.resources
+E:\update2_APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.SellOrder.resources
+E:\update2_APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.vbproj.GenerateResource.Cache
+E:\update2_APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.vbproj.CoreCompileInputs.cache
+E:\update2_APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.exe
+E:\update2_APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.xml
+E:\update2_APMshop_IS\APMshop_IS\obj\Debug\APMshop_IS.pdb
+E:\APMshop_IS\bin\Debug\APMshop_IS.exe.config
+E:\APMshop_IS\bin\Debug\APMshop_IS.exe
+E:\APMshop_IS\bin\Debug\APMshop_IS.pdb
+E:\APMshop_IS\bin\Debug\APMshop_IS.xml
+E:\APMshop_IS\obj\Debug\APMshop_IS.vbprojResolveAssemblyReference.cache
+E:\APMshop_IS\obj\Debug\APMshop_IS.Form1.resources
+E:\APMshop_IS\obj\Debug\APMshop_IS.Incoming.resources
+E:\APMshop_IS\obj\Debug\APMshop_IS.Login.resources
+E:\APMshop_IS\obj\Debug\APMshop_IS.Resources.resources
+E:\APMshop_IS\obj\Debug\APMshop_IS.Outgoing.resources
+E:\APMshop_IS\obj\Debug\APMshop_IS.SellOrder.resources
+E:\APMshop_IS\obj\Debug\APMshop_IS.vbproj.GenerateResource.Cache
+E:\APMshop_IS\obj\Debug\APMshop_IS.vbproj.CoreCompileInputs.cache
+E:\APMshop_IS\obj\Debug\APMshop_IS.exe
+E:\APMshop_IS\obj\Debug\APMshop_IS.xml
+E:\APMshop_IS\obj\Debug\APMshop_IS.pdb
+G:\APMshop_IS\bin\Debug\APMshop_IS.exe.config
+G:\APMshop_IS\obj\Debug\APMshop_IS.exe
+G:\APMshop_IS\obj\Debug\APMshop_IS.xml
+G:\APMshop_IS\obj\Debug\APMshop_IS.pdb
+G:\APMshop_IS\bin\Debug\APMshop_IS.exe
+G:\APMshop_IS\bin\Debug\APMshop_IS.pdb
+G:\APMshop_IS\bin\Debug\APMshop_IS.xml
+G:\APMshop_IS\obj\Debug\APMshop_IS.vbprojResolveAssemblyReference.cache
+G:\APMshop_IS\obj\Debug\APMshop_IS.Form1.resources
+G:\APMshop_IS\obj\Debug\APMshop_IS.Incoming.resources
+G:\APMshop_IS\obj\Debug\APMshop_IS.Login.resources
+G:\APMshop_IS\obj\Debug\APMshop_IS.Resources.resources
+G:\APMshop_IS\obj\Debug\APMshop_IS.Outgoing.resources
+G:\APMshop_IS\obj\Debug\APMshop_IS.SellOrder.resources
+G:\APMshop_IS\obj\Debug\APMshop_IS.vbproj.GenerateResource.Cache
